@@ -1,7 +1,7 @@
 -  Hi, I’m @NickCarney
 -  I’m interested in big data, statistics, sports, and music.
 -  I majored in computer science at The University of Vermont
--  I’m looking to collaborate on research opportunitues
+-  I’m a full-stack engineer
 -  Reach me at nick12carney@gmail.com
 
 <!---
